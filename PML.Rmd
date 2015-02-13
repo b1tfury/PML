@@ -8,7 +8,9 @@ The following is being produced , tested and executed on Ubuntu 14.04 LTS  and R
 
 Devloper :- Sahil Kharb
 
-GitHub repo L:- 
+GitHub repo :-  https://github.com/sahil28/PML
+
+RPubs :- http://rpubs.com/sahil28/pml
 
 ## Background Introduction
 
