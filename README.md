@@ -1,7 +1,5 @@
----
-title: "Final Project Report"
-output: html_document
----
+## Practical Machine Learning Project
+
 This is the Coursera Practical Macihine Learning Course Project which is the part of Data Science Specialization by Johns Hopkins Bloomberg School of Public Health.
 
 The following is being produced , tested and executed on Ubuntu 14.04 LTS  and Rstudio Version 0.98.1091.
